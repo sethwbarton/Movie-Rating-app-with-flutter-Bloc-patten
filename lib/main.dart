@@ -212,8 +212,8 @@ class _MyHomePageState extends State<MyHomePage> {
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: <Widget>[
-          tab(0, "In Threaters", "now_playing"),
-          tab(1, "Upcomings", "upcoming"),
+          tab(0, "In Theaters", "now_playing"),
+          tab(1, "Upcoming", "upcoming"),
           tab(2, "Popular", "popular"),
         ],
       ),
